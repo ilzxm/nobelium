@@ -1,7 +1,7 @@
 const BLOG = {
   title: '派小星的学习笔记',
   author: '派小星',
-  email: '',
+  email: 'sloner@yeah.net',
   link: 'https://hanl.vercel.app',
   description: '你似乎来到了没有知识存在的荒原',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
