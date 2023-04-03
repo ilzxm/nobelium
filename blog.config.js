@@ -2,7 +2,7 @@ const BLOG = {
   title: '派小星的学习笔记',
   author: '派小星',
   email: 'sloner@yeah.net',
-  link: 'https://hanl.vercel.app',
+  link: 'https://blog.hanl.me',
   description: '你似乎来到了没有知识存在的荒原',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
