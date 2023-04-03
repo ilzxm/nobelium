@@ -2,8 +2,8 @@ const BLOG = {
   title: '派小星的学习笔记',
   author: '派小星',
   email: '',
-  link: 'https://nobelium.vercel.app',
-  description: 'This gonna be an awesome website.',
+  link: 'https://hanl.vercel.app',
+  description: '你似乎来到了没有知识存在的荒原',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -14,7 +14,7 @@ const BLOG = {
   since: 2023, // If leave this empty, current year will be used.
   postsPerPage: 7,
   sortByDate: false,
-  showAbout: true,
+  showAbout: false,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
